@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a passionate web developer with experience in building dynamic and responsive websites. I love to learn new technologies and improve my skills.
+I am a passionate software developer. I love to learn new technologies and improve my skills.
 
 
 ### My Web Development Portfolio

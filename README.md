@@ -7,6 +7,7 @@ I am a passionate software developer. I love to learn new technologies and impro
 
 ### My Web Development Portfolio
 
+- [IMDb-Clone](https://imdb-clone-js.netlify.app)
 - [OmniFood](https://omnifood-01.netlify.app)
 - [Tutor](https://tutor-03.netlify.app)
 - [Jupter](https://jupter.netlify.app)

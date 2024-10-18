@@ -9,6 +9,7 @@ I am a passionate software developer. I love to learn new technologies and impro
 
 - [IMDb-Clone](https://imdb-clone-js.netlify.app)
 - [OmniFood](https://omnifood-01.netlify.app)
+- [Stratus](https://stratus-js.netlify.app/)
 - [Tutor](https://tutor-03.netlify.app)
 - [Jupter](https://jupter.netlify.app)
 - [LuminaCreative](https://lumina-creative-02.netlify.app)

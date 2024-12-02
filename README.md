@@ -1,11 +1,7 @@
-## Hi there 👋
-
-### About Me
-
-I am a passionate software developer. I love to learn new technologies and improve my skills.
 
 
-### My Web Development Portfolio
+
+### Web Development Projects
 
 - [IMDb-Clone](https://imdb-clone-js.netlify.app)
 - [OmniFood](https://omnifood-01.netlify.app)
